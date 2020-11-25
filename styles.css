@@ -2,6 +2,13 @@ body{
     margin: 0px;
 }
 
+h2{
+    color: blue;
+}
+
+h4{list-style: circle;
+}
+ 
 
 
 .nav-wrapper{
@@ -39,3 +46,35 @@ nav-wrapper> .left-side> div {
 .nav-link-wrapper a:hover {
     color: black;
 }
+h4{
+font-size: .05cm;
+}
+
+h2{
+    font-size: .05cm;
+}
+
+
+h5{
+    font-size: .05cm;
+}
+
+head {
+    padding: 20px 50px;
+    }
+
+    main{ 
+        list-style-type: square circle;
+    }
+
+    ul li:hover {
+        background: #ddd;
+
+        .header {
+            overflow: hidden;
+            background-color: #f1f1f1;
+            padding: 20px 10px;
+          }
+
+
+        
